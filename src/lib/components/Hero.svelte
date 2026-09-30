@@ -70,13 +70,15 @@
             alt="PlanSmartAI plan review"
             class="block h-auto w-full object-cover"
         />
-        <!-- PRIMARY CTA -->
-                <a
-                    href="#pricing"
-                    class="inline-flex items-center justify-center rounded-[6px] border border-[#d4a84b] bg-[#d4a84b] px-[25px] py-[15px] text-[15px] font-bold text-black no-underline transition-colors duration-200 hover:border-white hover:bg-white hover:text-black"
-                >
-                    Watch a real permit review
-                </a>
+       <div class="flex flex-col items-center">
+    <!-- PRIMARY CTA -->
+    <a
+        href="#pricing"
+        class="inline-flex items-center justify-center rounded-[6px] border border-[#d4a84b] bg-[#d4a84b] px-[25px] py-[15px] text-[15px] font-bold text-black no-underline transition-colors duration-200 hover:border-white hover:bg-white hover:text-black"
+    >
+        Watch a real permit review
+    </a>
+</div>
     </div>
 </div>
     </div>
