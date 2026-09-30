@@ -60,25 +60,31 @@
         
         <!-- HERO VISUAL -->
 <div class="flex justify-center">
-    <div
-        class="w-full max-w-[560px] overflow-hidden rounded-xl
-               shadow-[0_25px_70px_rgba(212,168,75,0.12)]
-               [transform:rotate(1.5deg)]"
-    >
-        <img
-            src="/images/PlanSmartHeroImage.png"
-            alt="PlanSmartAI plan review"
-            class="block h-auto w-full object-cover"
-        />
-       <div class="flex flex-col items-center">
-    <!-- PRIMARY CTA -->
-    <a
-        href="#pricing"
-        class="inline-flex items-center justify-center rounded-[6px] border border-[#d4a84b] bg-[#d4a84b] px-[25px] py-[15px] text-[15px] font-bold text-black no-underline transition-colors duration-200 hover:border-white hover:bg-white hover:text-black"
-    >
-        Watch a real permit review
-    </a>
-</div>
+    <div class="w-full max-w-[560px]">
+        
+        <!-- IMAGE ONLY -->
+        <div
+            class="overflow-hidden rounded-xl
+                   shadow-[0_25px_70px_rgba(212,168,75,0.12)]
+                   [transform:rotate(1.5deg)]"
+        >
+            <img
+                src="/images/PlanSmartHeroImage.png"
+                alt="PlanSmartAI plan review"
+                class="block h-auto w-full object-cover"
+            />
+        </div>
+
+        <!-- BUTTON NOT ROTATED -->
+        <div class="mt-8 flex flex-col items-center">
+            <a
+                href="#pricing"
+                class="inline-flex items-center justify-center rounded-[6px] border border-[#d4a84b] bg-[#d4a84b] px-[25px] py-[15px] text-[15px] font-bold text-black no-underline transition-colors duration-200 hover:border-white hover:bg-white hover:text-black"
+            >
+                Watch a real permit review
+            </a>
+        </div>
+
     </div>
 </div>
     </div>
