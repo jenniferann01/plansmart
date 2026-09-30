@@ -42,7 +42,7 @@
                     href="#pricing"
                     class="inline-flex items-center justify-center rounded-[6px] border border-[#d4a84b] bg-[#d4a84b] px-[25px] py-[15px] text-[15px] font-bold text-black no-underline transition-colors duration-200 hover:border-white hover:bg-white hover:text-black"
                 >
-                    Start a free review
+                    Start A Review
                 </a>
 
                 <!-- SECONDARY CTA -->
@@ -55,11 +55,6 @@
                 </a>
             </div>
 
-            <!-- PRICE -->
-            <p class="mt-[18px] text-[14px] text-[#8f8f8f]">
-                [ PRICING — e.g. "$X per project, no seat minimum" ] · no card
-                required to start
-            </p>
         </div>
 
         
@@ -75,6 +70,13 @@
             alt="PlanSmartAI plan review"
             class="block h-auto w-full object-cover"
         />
+        <!-- PRIMARY CTA -->
+                <a
+                    href="#pricing"
+                    class="inline-flex items-center justify-center rounded-[6px] border border-[#d4a84b] bg-[#d4a84b] px-[25px] py-[15px] text-[15px] font-bold text-black no-underline transition-colors duration-200 hover:border-white hover:bg-white hover:text-black"
+                >
+                    Watch a real permit review
+                </a>
     </div>
 </div>
     </div>
