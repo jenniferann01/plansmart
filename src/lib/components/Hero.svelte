@@ -71,7 +71,7 @@
                [transform:rotate(1.5deg)]"
     >
         <img
-            src="/src/lib/assets/PlanSmartHeroImage.png"
+            src="/images/PlanSmartHeroImage.png"
             alt="PlanSmartAI plan review"
             class="block h-auto w-full object-cover"
         />
