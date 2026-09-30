@@ -62,87 +62,20 @@
             </p>
         </div>
 
+        
         <!-- HERO VISUAL -->
-        <div class="flex justify-center">
-            <div
-                class="w-full max-w-[500px] rounded-xl border border-[#d4a84b] bg-white p-6 shadow-[0_25px_70px_rgba(212,168,75,0.12)] [transform:rotate(1.5deg)]"
-            >
-                <!-- CARD TOP -->
-                <div
-                    class="flex items-center justify-between border-b border-[#eeeeee] pb-5 text-[13px] font-semibold text-[#222222]"
-                >
-                    <span>PlanSmart Review</span>
-
-                    <span
-                        class="text-[10px] tracking-[0.1em] text-[#d4a84b]"
-                    >
-                        READY
-                    </span>
-                </div>
-
-                <!-- BLUEPRINT -->
-                <div
-                    class="relative my-5 h-[300px] overflow-hidden
-                           bg-[linear-gradient(#e6e9e4_1px,transparent_1px),linear-gradient(90deg,#e6e9e4_1px,transparent_1px)]
-                           bg-[size:30px_30px]
-                           max-[600px]:h-[240px]"
-                >
-                    <!-- FLOOR PLAN LINES -->
-                    <div
-                        class="absolute left-[55px] top-[45px] h-[90px] w-[160px] border-2 border-[#555555]"
-                    ></div>
-
-                    <div
-                        class="absolute left-[140px] top-[135px] h-[100px] w-[190px] border-2 border-[#555555]"
-                    ></div>
-
-                    <div
-                        class="absolute right-[45px] top-[55px] h-[180px] w-[90px] border-2 border-[#555555]"
-                    ></div>
-
-                    <div
-                        class="absolute bottom-[35px] left-[45px] w-[300px] border-t-2 border-dashed border-[#555555]"
-                    ></div>
-
-                    <!-- ISSUE MARKERS -->
-                    <div
-                        class="absolute left-[205px] top-[82px] grid h-7 w-7 place-items-center rounded-full bg-[#d4a84b] text-[13px] font-bold text-black"
-                    >
-                        !
-                    </div>
-
-                    <div
-                        class="absolute bottom-[62px] right-[98px] grid h-7 w-7 place-items-center rounded-full bg-[#d4a84b] text-[13px] font-bold text-black"
-                    >
-                        !
-                    </div>
-                </div>
-
-                <!-- CARD BOTTOM -->
-                <div
-                    class="flex items-center justify-between border-t border-[#eeeeee] pt-[18px]"
-                >
-                    <div class="flex flex-col gap-[5px]">
-                        <span class="text-[11px] text-[#888888]">
-                            Potential issues
-                        </span>
-
-                        <strong class="text-[14px] text-[#222222]">
-                            2 identified
-                        </strong>
-                    </div>
-
-                    <div class="flex flex-col gap-[5px]">
-                        <span class="text-[11px] text-[#888888]">
-                            Review
-                        </span>
-
-                        <strong class="text-[14px] text-[#222222]">
-                            Complete
-                        </strong>
-                    </div>
-                </div>
-            </div>
-        </div>
+<div class="flex justify-center">
+    <div
+        class="w-full max-w-[560px] overflow-hidden rounded-xl border border-[#d4a84b]
+               shadow-[0_25px_70px_rgba(212,168,75,0.12)]
+               [transform:rotate(1.5deg)]"
+    >
+        <img
+            src="/src/lib/assetsPlanSmart+Hero+Image+.png"
+            alt="PlanSmartAI plan review"
+            class="block h-auto w-full object-cover"
+        />
+    </div>
+</div>
     </div>
 </section>
