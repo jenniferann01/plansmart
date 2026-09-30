@@ -66,7 +66,7 @@
         <!-- HERO VISUAL -->
 <div class="flex justify-center">
     <div
-        class="w-full max-w-[560px] overflow-hidden rounded-xl border border-[#d4a84b]
+        class="w-full max-w-[560px] overflow-hidden rounded-xl
                shadow-[0_25px_70px_rgba(212,168,75,0.12)]
                [transform:rotate(1.5deg)]"
     >
