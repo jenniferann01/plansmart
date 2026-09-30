@@ -1,5 +1,5 @@
 <script lang="ts">
-    import logo from '$lib/assets/logo.png';
+    import logo from '$lib/assets/logo-black-300x109-Photoroom.png';
 </script>
 
 <header class="w-full border-b border-[#d4a84b] bg-black">
