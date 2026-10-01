@@ -30,7 +30,7 @@
 		content="See how PlanSmartAI reviews project plans and produces a clear review report before submission."
 	/>
 </svelte:head>
-
+<Header />
 <!-- HERO -->
 <section class="bg-white px-6 pb-20 pt-16 sm:px-8 lg:px-12 lg:pb-28 lg:pt-24">
 	<div class="mx-auto max-w-6xl text-center">
@@ -380,3 +380,4 @@
 		</div>
 	</div>
 </section>
+<Footer/>
